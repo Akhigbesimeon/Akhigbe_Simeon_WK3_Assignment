@@ -1,10 +1,12 @@
-#Akhigbe_Simeon_WK3_Assignment
+# ATM Simulation – Week 3 Assignment
 
-For this assignment we are to create a simple ATM that simulates the basic functions of an ATM machine for a single user.
+This project is a simple *ATM simulation program* that mimics the basic functions of an ATM machine for a single user.
 
-#Features
-1. Check Balance
+## Features
 
-2. Deposit
+- *Check Balance* – View the current account balance  
+- *Deposit* – Add money to the account  
+- *Withdrawal* – Withdraw money from the account  
 
-3. Withdrawal
+---
+*Assignment:* Akhigbe Simeon – Week 3
