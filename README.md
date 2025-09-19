@@ -1,6 +1,6 @@
 # ATM Simulation – Week 3 Assignment
 
-This project is a simple *ATM simulation program* that mimics the basic functions of an ATM machine for a single user.
+This project is a simple *ATM simulation program* that mimics the basic functions of an ATM for a single user.
 
 ## Features
 - *Check Balance* – View the current account balance  
@@ -14,22 +14,24 @@ This project is a simple *ATM simulation program* that mimics the basic function
    - Basic command line knowledge  
 
 2. *Compilation Instructions*  
-   - Navigate to the project directory:  
-     bash
-     cd /path/to/project
-     
-   - Compile the program:  
-     bash
+   - Navigate to the project directory: 
+```bash
+cd /path/to/ATM_Simulation.c
+```
+
+- Compile the program:  
+```bash
      gcc ATM_Simulation.c -o atm
-     
-   - Run the executable:  
-     - On *Linux/macOS*:  
-       bash
-       ./atm
-       
-     - On *Windows*:  
-       bash
-       atm.exe
+```     
+- Run the executable:  
+- On *Linux/macOS*:  
+```bash
+     ./atm
+```         
+- On *Windows*:  
+```bash
+     atm.exe
+```  
        
 
 ---
